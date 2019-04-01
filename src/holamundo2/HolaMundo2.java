@@ -7,7 +7,7 @@ public class HolaMundo2 {
         System.out.println("Hola Mundo2");
         System.out.println("Abril 2019");
         System.out.println("IES Luis Vélez de Guevara");
-        System.out.println("Otra vez");
+        System.out.println("Andalucía");
     }
     
 }
